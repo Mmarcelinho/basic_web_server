@@ -1,0 +1,11 @@
+/home/marcelinho/Desktop/Workspace/BasicWebServer/src/BasicWebServer.WebServer/bin/Debug/net8.0/BasicWebServer.WebServer.deps.json
+/home/marcelinho/Desktop/Workspace/BasicWebServer/src/BasicWebServer.WebServer/bin/Debug/net8.0/BasicWebServer.WebServer.dll
+/home/marcelinho/Desktop/Workspace/BasicWebServer/src/BasicWebServer.WebServer/bin/Debug/net8.0/BasicWebServer.WebServer.pdb
+/home/marcelinho/Desktop/Workspace/BasicWebServer/src/BasicWebServer.WebServer/obj/Debug/net8.0/BasicWebServer.WebServer.GeneratedMSBuildEditorConfig.editorconfig
+/home/marcelinho/Desktop/Workspace/BasicWebServer/src/BasicWebServer.WebServer/obj/Debug/net8.0/BasicWebServer.WebServer.AssemblyInfoInputs.cache
+/home/marcelinho/Desktop/Workspace/BasicWebServer/src/BasicWebServer.WebServer/obj/Debug/net8.0/BasicWebServer.WebServer.AssemblyInfo.cs
+/home/marcelinho/Desktop/Workspace/BasicWebServer/src/BasicWebServer.WebServer/obj/Debug/net8.0/BasicWebServer.WebServer.csproj.CoreCompileInputs.cache
+/home/marcelinho/Desktop/Workspace/BasicWebServer/src/BasicWebServer.WebServer/obj/Debug/net8.0/BasicWebServer.WebServer.dll
+/home/marcelinho/Desktop/Workspace/BasicWebServer/src/BasicWebServer.WebServer/obj/Debug/net8.0/refint/BasicWebServer.WebServer.dll
+/home/marcelinho/Desktop/Workspace/BasicWebServer/src/BasicWebServer.WebServer/obj/Debug/net8.0/BasicWebServer.WebServer.pdb
+/home/marcelinho/Desktop/Workspace/BasicWebServer/src/BasicWebServer.WebServer/obj/Debug/net8.0/ref/BasicWebServer.WebServer.dll

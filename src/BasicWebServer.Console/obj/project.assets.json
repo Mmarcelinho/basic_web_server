@@ -1,0 +1,94 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "BasicWebServer.WebServer/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/BasicWebServer.WebServer.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BasicWebServer.WebServer.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BasicWebServer.WebServer/1.0.0": {
+      "type": "project",
+      "path": "../BasicWebServer.WebServer/BasicWebServer.WebServer.csproj",
+      "msbuildProject": "../BasicWebServer.WebServer/BasicWebServer.WebServer.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "BasicWebServer.WebServer >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "/root/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/home/marcelinho/Desktop/Workspace/BasicWebServer/src/BasicWebServer.Console/BasicWebServer.Console.csproj",
+      "projectName": "BasicWebServer.Console",
+      "projectPath": "/home/marcelinho/Desktop/Workspace/BasicWebServer/src/BasicWebServer.Console/BasicWebServer.Console.csproj",
+      "packagesPath": "/root/.nuget/packages/",
+      "outputPath": "/home/marcelinho/Desktop/Workspace/BasicWebServer/src/BasicWebServer.Console/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/root/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {
+            "/home/marcelinho/Desktop/Workspace/BasicWebServer/src/BasicWebServer.WebServer/BasicWebServer.WebServer.csproj": {
+              "projectPath": "/home/marcelinho/Desktop/Workspace/BasicWebServer/src/BasicWebServer.WebServer/BasicWebServer.WebServer.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      }
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.300/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

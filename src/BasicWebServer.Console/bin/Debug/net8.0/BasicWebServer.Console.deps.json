@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "BasicWebServer.Console/1.0.0": {
+        "dependencies": {
+          "BasicWebServer.WebServer": "1.0.0"
+        },
+        "runtime": {
+          "BasicWebServer.Console.dll": {}
+        }
+      },
+      "BasicWebServer.WebServer/1.0.0": {
+        "runtime": {
+          "BasicWebServer.WebServer.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BasicWebServer.Console/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BasicWebServer.WebServer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
